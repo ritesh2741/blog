@@ -1,1 +1,2 @@
-mv secret.yml secrets.yml
+mv config/secret.yml config/secrets.yml
+
